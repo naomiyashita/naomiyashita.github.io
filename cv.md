@@ -22,8 +22,8 @@ permalink: /cv/
 
 <h2 id="membership">学会</h2>
 
-- 2025/04–present　日本認知心理学会
 - 2026/09–present　日本基礎心理学会
+- 2025/04–present　日本認知心理学会
 
 <h2 id="publications">原著論文</h2>
 
