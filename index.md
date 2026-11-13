@@ -35,11 +35,10 @@ lang: ja
   </li>
 
   <li>
-    <span class="profile-link-disabled">
+    <a href="https://scholar.google.com/citations?user=SZEe5eQAAAAJ">
       <span class="profile-icon">G</span>
       <span>Google Scholar</span>
-      <span class="profile-status">準備中</span>
-    </span>
+    </a>
   </li>
 
   <li>
@@ -66,7 +65,7 @@ lang: ja
 ## 研究領域
 
 - 展望的記憶 (prospective memory)
-- メタ記憶 (metamemory)
+- メタ認知 (metacognition)
 - 注意 (attention)
 
 ## 連絡先
