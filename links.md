@@ -34,7 +34,7 @@ permalink: /links/
   </li>
 
   <li>
-    <a href="https://scholar.google.com/citations?user=SZEe5eQAAAAJ">
+    <a href="https://scholar.google.com/citations?user=EKJsebcAAAAJ">
       <span class="profile-icon">G</span>
       <span>Google Scholar</span>
     </a>
